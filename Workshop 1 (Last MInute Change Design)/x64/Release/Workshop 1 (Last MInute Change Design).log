@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(285,9): warning C4102: 'mainpage': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(432,6): warning C4101: 'subtotal': unreferenced local variable
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(743,12): warning C4102: 'checkStatus': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(999,5): warning C4102: 'head': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1165,11): warning C4102: 'selection': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1193,12): warning C4102: 'selection2': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1263,12): warning C4102: 'selection4': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1306,6): warning C4102: 'loop': unreferenced label
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1290,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1324,6): warning C4101: 'select': unreferenced local variable
+C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\Workshop 1 (Last MInute Change Design)\Main.cpp(1693,5): warning C4102: 'head': unreferenced label
+  Generating code
+  1 of 263 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Workshop 1 (Last MInute Change Design).vcxproj -> C:\Users\ashftw\source\repos\Workshop 1 (Last MInute Change Design)\x64\Release\Workshop 1 (Last MInute Change Design).exe
